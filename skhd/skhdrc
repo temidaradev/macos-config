@@ -8,6 +8,7 @@
 lalt - return : open -n /Applications/kitty.app
 lalt - b : open -na /Applications/Safari.app
 lalt - e : open ~/
+lalt - m : open -b com.apple.Music
 
 # ----------------------------------------------------------------
 # Workspace Navigation (lalt + [1-7])
